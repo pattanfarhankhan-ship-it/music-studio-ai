@@ -1,0 +1,10 @@
+flask
+torch
+torchaudio
+audiocraft
+moviepy
+SpeechRecognition
+groq
+pydub
+requests
+gunicorn
